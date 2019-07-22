@@ -1,4 +1,4 @@
-# Min-conflict-for-FIFA-team-distribution
+# FIFA-World-Cup-Tournament-Organization
 Dividing the user defined teams into groups based on the user specified pots and confederation of the teams
 
 Refer to problem description to know more about the problem!
