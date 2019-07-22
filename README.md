@@ -55,3 +55,9 @@ Tunisia,Japan,England,Russia
 Iceland,South Korea,Portugal,Uruguay  
 Egypt,Panama,Germany,Colombia  
 Belgium,Senegal,Saudi Arabia,Spain  
+
+# Illustration for Sample input:
+In order to make the problem description clearer, consider the following example with 32  
+national teams which are supposed to be divided into 8 groups. The classification of  
+teams based on their continental confederations has been shown in the figure below.   
+
