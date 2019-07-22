@@ -47,11 +47,11 @@ corresponding to that group.
 
 # Output for the Sample input
 Yes
-Brazil,Denmark,Croatia,Morocco
-Poland,Costa Rica,Peru,Nigeria
-Mexico,Sweden,Australia,France
-Switzerland,Serbia,Argentina,Iran
-Tunisia,Japan,England,Russia
-Iceland,South Korea,Portugal,Uruguay
-Egypt,Panama,Germany,Colombia
-Belgium,Senegal,Saudi Arabia,Spain
+Brazil,Denmark,Croatia,Morocco  
+Poland,Costa Rica,Peru,Nigeria  
+Mexico,Sweden,Australia,France  
+Switzerland,Serbia,Argentina,Iran  
+Tunisia,Japan,England,Russia  
+Iceland,South Korea,Portugal,Uruguay  
+Egypt,Panama,Germany,Colombia  
+Belgium,Senegal,Saudi Arabia,Spain  
