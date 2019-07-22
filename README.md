@@ -20,18 +20,18 @@ continental confederation separated by commas “,”. If there is no team from 
 continental confederation, it is denoted by “None”.
 
 # Sample input
-8
-4
-Russia,Germany,Brazil,Portugal,Argentina,Belgium,Poland,France
-Spain,Peru,Switzerland,England,Colombia,Mexico,Uruguay,Croatia
-Denmark,Iceland,Costa Rica,Sweden,Tunisia,Egypt,Senegal,Iran
-Serbia,Nigeria,Australia,Japan,Morocco,Panama,South Korea,Saudi Arabia
-AFC:South Korea,Saudi Arabia,Iran,Japan,Australia
-CAF:Tunisia,Egypt,Senegal,Morocco,Nigeria
-CONCACAF:Mexico,Panama,Costa Rica
-CONMEBOL:Brazil,Argentina,Uruguay,Colombia,Peru
-UEFA:France,Germany,England,Russia,Portugal,Belgium,Poland,Switzerland,Croatia,Denmark,Iceland,Serbia,Spain,Sweden
-OFC:None
+8  
+4  
+Russia,Germany,Brazil,Portugal,Argentina,Belgium,Poland,France  
+Spain,Peru,Switzerland,England,Colombia,Mexico,Uruguay,Croatia  
+Denmark,Iceland,Costa Rica,Sweden,Tunisia,Egypt,Senegal,Iran  
+Serbia,Nigeria,Australia,Japan,Morocco,Panama,South Korea,Saudi Arabia  
+AFC:South Korea,Saudi Arabia,Iran,Japan,Australia   
+CAF:Tunisia,Egypt,Senegal,Morocco,Nigeria 
+CONCACAF:Mexico,Panama,Costa Rica  
+CONMEBOL:Brazil,Argentina,Uruguay,Colombia,Peru  
+UEFA:France,Germany,England,Russia,Portugal,Belgium,Poland,Switzerland,Croatia,Denmark,Iceland,Serbia,Spain,Sweden  
+OFC:None  
 
 # OUTPUT FORMAT:
 
